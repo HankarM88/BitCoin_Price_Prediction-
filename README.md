@@ -1,1 +1,1 @@
-#¨Predicting Bitcoin Price
+## Predicting Bitcoin Price
